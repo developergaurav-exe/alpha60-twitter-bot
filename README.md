@@ -3,7 +3,7 @@ A Twitter bot named Alpha 60 which tweets back to #Python3.
 Mention @alpha6011 and #Python3 to see desired results.
 Though currently the script is not running so you will not get anything.
 
-##How To Use?
+## How To Use?
 1. Create Developer Account in Twitter: https://developer.twitter.com/en
 2. Create an App with Read and write permissions  
 3. Generate keys and Add them separately in a file name keys.py
